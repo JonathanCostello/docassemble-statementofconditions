@@ -31,7 +31,7 @@ This conflict can arise in many ways during the signing of a lease. But most of 
 Renters, students, elderly, immigrants, landlords, realtors, property management, housing courts
 
 **Intro to the Project**
-Please see the Statement of Conditions presentation pptx for a breif summary and introduction to the project
+Please see the Statement of Conditions presentation pptx here [https://github.com/JonathanCostello/docassemble-statementofconditions/blob/main/Statement%20of%20Conditions%20presentation%20.pptx] for a breif summary and introduction to the project
 
 
 **Research**
