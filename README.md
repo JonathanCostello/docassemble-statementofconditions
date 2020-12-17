@@ -20,14 +20,14 @@ Note: This video was made prior to most testing. Some of the pages have more inf
 
 ## Project Biography
 
-# TLDR
+    TLDR
 
-# The Problem 
+    The Problem
 
-# Research
+    Research
 
-# Development 
+    Development
 
-# The Product 
+    The Product
 
-# Moving Forward
+    Moving Forward
