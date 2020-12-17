@@ -32,8 +32,15 @@ Unfortunately, there is an inherent power imbalance between the landlord and ren
 
 This conflict can arise in many ways during the signing of a lease. But most of the ways can be generally summed up by landlords rushing or pressuring renters to sign incomplete statement of condition forms that do not comprehensively and accurately portray the status of the rental. 
 
+**Key Stakeholders**
+Renters, students, elderly, immigrants, landlords, realtors, property management, housing courts
+
+**Intro to the Project**
+Please see the Statement of Conditions presentation pptx for a breif summary and introduction to the project
+
 
 **Research**
+
 My researching of the problem comes largely from personal experience and discussing with industry experts. Prior to law school, I had a length career in real estate development, sales, and rentals. Boston is an especially lucrative real estate rental market with one-bedroom apartments renting for over $2,000/month. Currently, there is not universal solution for this problem. There are some pay-to-play apps that both landlord and renter can sign up for, sign into, and write their own version of events and upload photos. There are also some in-house programs operated by large real estate agencies and property management groups. Subscription based programs are not an effective solution when there is a large economic imbalance between parties. Likewise, real estate agencies and property management groups have a financial incentive to favor landlords. These do not present a fair, open, and equitable solution. I continued my research by reaching out to several realtors still in the industry. Those in Boston reported that they had not heard of any service or platform that offered what I was proposing. One even said their office never used Statement of Condition forms and would only use them upon request. Although my tool would only apply to the state of Massachusetts, I reached out to former professional peers in other states. Those practicing real estate in New York City had heard of the idea of a comprehensive online statement of conditions tool but had never seen it used nor had they heard of it as a free-to-use open-source tool. My real estate peers in Virginia likewise had no knowledge of any opensource statement of conditions tools. Internet research resulted no results either, beyond the subscription-based models. My research concluded that no open-source equitable tool for complete statement of conditions forms current exists. 
 
 **Development**
@@ -61,8 +68,13 @@ The feedback from the “landlord” resulted in some changes to my code where t
 
 
 **The Product**
+In it's current form the tool is short of its original goal but is functional for use. 
 
+The tool will greatly assist renters and landlords equitably and efficiently resolve disputes over security deposits. The tool will provide an tenants the abilitys to create a comprehensive static image of the condition of the rental at lease, thereby reducing the about of tenant/landlord litigation. This will greatly expedite dispute resolution for attorneys representing tenants by providing a Q&A responses to MA Housing Code Issues, written descriptions, photographs and corresponding codes in one comprehensive document. Additionally, this will likely reduce the volume of cases brought to housing court if the cases can be resolved by comparing the comprehensive report to the current condition. Lastly, cases for unresolved Housing Code violations will be more efficiently resolved in housing court, the plaintiffs will be able to more efficiently submit claims because they will have a timetable for the landlord to cure, and the housing court will be presented with a written description of the violation, photos of the violation, the reference code, and a time table to cure in one pleading. 
 
+The tool presents a much better option for tenants than the current status quo. Currently renters can be pressured, bulled, and mislead into not completing a statement of conditions, or signing an incomplete statement of conditions. This tool allows renters to shield themselves from potentially abusive landlords by relying on the system. By leaning on the system presented by the tool, the user can take their time and thoroughly document the current condition of the unit. 
+
+The future of this tool and the rental market is bright. Real estate has been extremely resistant to technological innovation. Market forces(i.e., Multiple Listing Services are expensive subscription based services), industry resistance(i.e., Realtors do not want to be replaced by iPhones), and technologial illiterancy(i.e., older Realtors are slow to adapt to new technologies) are all factors to why real estate has been slow to grow with technology. This tool can function as a great starting point for modernization. Additionally, this tool is incredibly scalable. The tool would only need to be updated with applicable state codes to be used in every urban population center in the United States. 
 
 **Self-Reflection & Next Steps** 
 
@@ -89,3 +101,7 @@ Third, I had originally planned to include both the Statement of Conditions docu
 Fourth, as discussed above, I would love to see the tool translated to be used by those who are not native English speakers. A large portion of the rental community are immigrants and it would most benefit them if they could read the tool in their native language and then respond, and have their responses translated to English for populating the form. I envision two forms being created, one in their native language and an identical form in English and both forms would be signed, dated and shared. 
 
 Lastly, my coding skill limited my ability to use machine learning to my advantage. The most approachable way for this form to be mass utilized is through machine learning. The yesno, checkbox question format is very limiting and rigid. Ideally, I see the form transforming into to a simple “tell me what you see” text boxes for each room or area of focus with guiding instructions leading the renter to detail items that are listed in the Housing Code. Then through Machine Learning, the tool will be able to identify the key words and phrases corresponding to the Housing Code and then identify, based off the renter’s description, whether or not the unit and landlord are compliant. These responses are then compiled and correlated with the Housing Code for the statement of conditions.  
+
+**Concluding Notes**
+
+Although I am still very new to coding, and still feel intimidated by more experienced coders and complex concepts, I am very thankful for this class. This has been a tremendous learning experience. I got my first taste of basic coding and have learned a few very useful skills for my future as a law student and lawyer. I would like to thank Prof. Colarruso for everything he has done for our class through such a difficult semester and thank him for being a great guide through the looking glass into a whole new way of thinking and whole new world of coding. 
